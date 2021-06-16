@@ -5,6 +5,11 @@
     font-style: normal;
 }
 
+body{
+    font-family: 'ELAND_Choice_M';
+    font-size: 14px;
+}
+
 form{
     display: flex;
     flex-direction: column;
@@ -58,7 +63,7 @@ form{
 }
 
 .selectlabel{
-  display: flex;  
+  display: flex;
 }
 label{
     margin-right: 70px;
@@ -86,6 +91,7 @@ select{
 textarea{
     width: 958px;
     padding: 0px;
+    margin-bottom: 10px;
 }
 .joinbutton{
     width: 100%;
